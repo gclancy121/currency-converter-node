@@ -40,7 +40,7 @@ exports.seed = async function(knex) {
     {country_name: "Madagascar", conversion_rate: 3829.978},
     {country_name: "Malta", conversion_rate: 0.845},
     {country_name: "Mexico", conversion_rate: 20.272},
-    {country_name: "Morroco", conversion_rate: 8.988},
+    {country_name: "Morocco", conversion_rate: 8.988},
     {country_name: "Netherlands", conversion_rate: 0.845},
     {country_name: "New Zealand", conversion_rate: 1.414},
     {country_name: "North Macedonia", conversion_rate: 52.102},
